@@ -1,0 +1,27 @@
+== Series I have used myself
+
+* https://zig.news/lhp/want-to-create-a-tui-application-the-basics-of-uncooked-terminal-io-17gm[Terminal application, uncooked terminal]
+* https://dev.to/ryansolid/building-a-reactive-library-from-scratch-1i0p[Signals (React) UI Library]
+* https://zig.news/perky/hot-reloading-with-raylib-4bf9[Hot reload  for binary programs] (not web tech)
+* https://www.rfleury.com/p/ui-part-1-the-interaction-medium[Immediate mode GUIs] (not web tech)
+* https://joshi.monster/posts/build-your-own-htmx/[HTMX (alternative to REACT)]
+* https://guide.handmadehero.org/[Handmade Hero: Game and its engine]
+* https://www.youtube.com/watch?v=8fi7uSYlOdc[Docker: container runtime]
+* https://os.phil-opp.com/[OS in rust]
+* https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html[Web browser in Rust] 
+
+
+== TODO
+
+* https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/[Debugger]
+* https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
+* https://linuxfromscratch.org/lfs/
+* https://github.com/codecrafters-io/build-your-own-x
+* https://www.youtube.com/@jonhoo[Jon Gjengset] does several videos on implementing things from scratch in Rust
+
+== Other
+
+* Data orientated design patterns in zig https://www.youtube.com/watch?v=IroPQ150F6c[Andrew Kelley] https://www.youtube.com/watch?v=KOZcJwGdQok[Matthew Lugg]
+* https://youtu.be/f4ioc8-lDc0?si=Z0j4U3CG-2OMe8El&t=4408[N+1 and N+2 thinking, allocating memory in pools rather than one-by-one]
+* https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md[Style guide from] a zero-runtime allocation OLTP database
+
