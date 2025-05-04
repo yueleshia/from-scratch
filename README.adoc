@@ -13,15 +13,22 @@
 
 == TODO
 
+* https://www.youtube.com/watch?v=kCc8FmEb1nY[Let's build ChatGPT]
 * https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/[Debugger]
 * https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
 * https://linuxfromscratch.org/lfs/
 * https://github.com/codecrafters-io/build-your-own-x
 * https://www.youtube.com/@jonhoo[Jon Gjengset] does several videos on implementing things from scratch in Rust
 
-== Other
+== Hardware
+
+* https://www.youtube.com/watch?v=fks3PBodyiE[Laptop from scratch -- Bryan]
+
+== Software Architecture
 
 * Data orientated design patterns in zig https://www.youtube.com/watch?v=IroPQ150F6c[Andrew Kelley] https://www.youtube.com/watch?v=KOZcJwGdQok[Matthew Lugg]
 * https://youtu.be/f4ioc8-lDc0?si=Z0j4U3CG-2OMe8El&t=4408[N+1 and N+2 thinking, allocating memory in pools rather than one-by-one]
 * https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md[Style guide from] a zero-runtime allocation OLTP database
+* https://www.youtube.com/watch?v=QM1iUe6IofM[Object-orientated programming is bad -- Brian Will]
+//* Against clean code: https://www.youtube.com/watch?v=8ncQrGuunHY[Internet of Bugs]
 
